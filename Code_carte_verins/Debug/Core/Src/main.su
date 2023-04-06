@@ -1,0 +1,13 @@
+main.c:91:5:main	8	static
+main.c:154:6:SystemClock_Config	72	static
+main.c:189:13:MX_CAN_Init	8	static
+main.c:226:13:MX_TIM2_Init	48	static
+main.c:279:13:MX_TIM4_Init	48	static
+main.c:337:13:MX_GPIO_Init	40	static
+main.c:380:6:L_verins	32	static
+main.c:414:6:pwm1	48	static
+main.c:427:6:pwm2	48	static
+main.c:440:6:config_CAN	8	static
+main.c:461:6:transmit_CAN	24	static
+main.c:469:6:recup_CAN	16	static
+main.c:481:6:Error_Handler	4	static,ignoring_inline_asm
